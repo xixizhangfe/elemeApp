@@ -1,7 +1,11 @@
-# sell
+# eleme app
 
 > eleme app
 
+## Introduction
+Imitate eleme app based on vue 2.0.
+## Preview
+<img src="./resource/外卖01_商品页.jpg" width="200"> <img src="./resource/外卖02_商品页_公告及优惠信息.jpg" width="200"> <img src="./resource/外卖03_商品页_购物车详情.jpg" width="200">
 ## Build Setup
 
 ``` bash
